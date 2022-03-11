@@ -1,0 +1,11 @@
+{
+    "nombre" : "Emiliano",
+    "edad" : 33.2,
+    "estudiante" : false,
+    "direccion" : {
+        "calle" : "Guerrero",
+        "numero_ext" : 400,
+        "colonia" : "Centro"
+    },
+    "materias" : ["Moviles", "Tratatamiento de señales"]
+}
